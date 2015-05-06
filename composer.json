@@ -1,0 +1,11 @@
+{
+	"name": "php-fig-rectified/phpcs-standard",
+	"description": "phpcs configuration for PSR-2-R and the fixer for it",
+	"homepage": "https://github.com/php-fig-rectified",
+	"type": "project",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.4.16",
+		"squizlabs/php_codesniffer": "*"
+	}
+}
